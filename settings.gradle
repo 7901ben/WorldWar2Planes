@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "WW2 Planes Encyclopedia"
